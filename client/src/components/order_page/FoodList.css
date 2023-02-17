@@ -1,0 +1,12 @@
+.food_list_container{
+    display: flex;
+    align-items: center;
+}
+
+.food-items-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.loading_image {
+    margin: auto;
+}

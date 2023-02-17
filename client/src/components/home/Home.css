@@ -1,0 +1,11 @@
+.home_buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.home_button {
+  display: flex;
+}
+
+/*# sourceMappingURL=Home.css.map */

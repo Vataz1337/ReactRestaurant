@@ -1,0 +1,47 @@
+.food-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    width: 38em;
+}
+
+.food-item-left {
+    width: 70%;
+}
+
+.food-item-right {
+    width: 30%;
+    text-align: center;
+}
+
+.food-item-right img {
+    max-width: 100%;
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.food-item img {
+    width: 17em;
+    height: 12em;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    width:100%
+}
+
+.return_button{
+    display: none;
+}
+
+/* Add media queries to this css */

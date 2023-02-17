@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita",
+    "category": "Pizza",
+    "cost": 12.99,
+    "ingredients": ["extra cheese", "pepperoni", "mushrooms"],
+    "image": "https://ocdn.eu/images/pulscms/MmE7MDA_/06d3b49c0634ba5de867c761bb0cdaf4.jpeg",
+    "description": "Pizza with cheese."
+  },
+  {
+    "id": "2",
+    "name": "Grilled Chicken Sandwich",
+    "category": "Sandwich",
+    "cost": 8.99,
+    "ingredients": ["bacon", "avocado", "lettuce"],
+    "image":"https://thefamilydinnerproject.org/wp-content/uploads/2014/07/Easy-grilled-chicken-sandwich.jpg",
+    "description": "Sandwich with chicken that is grilled."
+  },
+  {
+    "id": "3",
+    "name": "Spicy Tofu Stir-Fry",
+    "category": "Asian",
+    "cost": 11.99,
+    "ingredients": ["peanuts", "scallions", "cucumber"],
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xa6MhKkATTo0kxE9EKAUOGdZzeSIgfCvFg&usqp=CAU",
+    "description": "Asia tofu and its spicy."
+  },
+  {
+    "id": "4",
+    "name": "Beef Tacos",
+    "category": "Mexican",
+    "cost": 9.99,
+    "ingredients": ["sour cream", "guacamole", "jalapenos"],
+    "image":"https://joyfoodsunshine.com/wp-content/uploads/2022/04/mexian-ground-beef-tacos-recipe-9.jpg",
+    "description": "Tacos with beef with mexican spices."
+  },
+  {
+    "id": "5",
+    "name": "Spaghetti Bolognese",
+    "category": "Italian",
+    "cost": 13.99,
+    "ingredients": ["grated parmesan", "garlic bread", "meatballs"],
+    "image":"https://szefpoleca.pl/wp-content/uploads/2021/10/najprostsze-spaghetti-bolognese-01-900x575.webp",
+    "description": "Italian classic spaghetti with meat balls."
+  }
+]
